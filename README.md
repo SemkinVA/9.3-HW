@@ -15,14 +15,7 @@
 
 **Ответ:**
 
-1. Установите PostgreSQL. Для установки достаточна та версия что есть в системном репозитороии Debian 11). 
-
 ![1-1](https://github.com/SemkinVA/9.3-HW/blob/main/1-1.png)
-
-2. Пользуясь конфигуратором комманд с официального сайта, составьте набор команд для установки последней версии Zabbix с поддержкой PostgreSQL и Apache.
-
-![1-2](https://github.com/SemkinVA/9.3-HW/blob/main/1-2.png)
-
 
 ***
 ### Задание 2
@@ -41,14 +34,7 @@
 
 **Ответ:**
 
-1. Установите Zabbix Agent на 2 виртмашины, одной из них может быть ваш Zabbix Server.
-
 ![2-1](https://github.com/SemkinVA/9.3-HW/blob/main/2-1.png)
-
-2. Приложите в файл README.md скриншот раздела Configuration > Hosts, где видно, что агенты подключены к серверу
-
-![2-2](https://github.com/SemkinVA/9.3-HW/blob/main/2-2.png)
-
 
 ***
 ### Задание 3
@@ -63,16 +49,9 @@
 #### Требования к результату
 - [ ] Прикрепите в файл README.md скриншот страницы хостов, где будут видны привязки шаблонов с названиями «Задание 2-3». Хосты должны иметь зелёный статус подключения
 
-
 **Ответ:**
 
-1. Установите Zabbix Agent на 2 виртмашины, одной из них может быть ваш Zabbix Server.
-
 ![3-1](https://github.com/SemkinVA/9.3-HW/blob/main/3-1.png)
-
-2. Приложите в файл README.md скриншот раздела Configuration > Hosts, где видно, что агенты подключены к серверу
-
-![3-2](https://github.com/SemkinVA/9.3-HW/blob/main/3-2.png)
 
 ***
 ### Задание 4
@@ -88,13 +67,8 @@
 
 **Ответ:**
 
-1. Установите Zabbix Agent на 2 виртмашины, одной из них может быть ваш Zabbix Server.
-
 ![4-1](https://github.com/SemkinVA/9.3-HW/blob/main/4-1.png)
 
-2. Приложите в файл README.md скриншот раздела Configuration > Hosts, где видно, что агенты подключены к серверу
-
-![4-2](https://github.com/SemkinVA/9.3-HW/blob/main/4-2.png)
 
 
 
